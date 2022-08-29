@@ -1,6 +1,6 @@
 # galaXYZ
 
-galaXYZ is a tool that allows to derive the three-dimensional shape of morphological components of galaxies.
+galaXYZ is a tool that allows to derive the three-dimensional shape of galaxies' morphological components.
 
 
 ## Authors
