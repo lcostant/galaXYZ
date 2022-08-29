@@ -1,0 +1,6 @@
+# Input file for running galaXYZ.
+# Each column should contain the values of the apparent axial ratios (q=b/a) and position angles
+# of both the principal component (i.e., bulge, bar, lens, etc.) and the disk.
+#
+galaxy			q_comp		q_disk		PA_comp	    PA_disk     errq_comp       errq_disk       errPA_comp      errPA_disk
+NGC151			0.40	    0.55	    35.6	    15.7        0.05            0.05            0.1             0.1
